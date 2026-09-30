@@ -31,7 +31,7 @@ console.log(">>> CHALLENGE 1 <<<");
 const myFullName = "Sijabulile Ncube";
 
 // number | let: this has to be able to change,every year on my birthday it goes up by one.
-let myAge = 35;
+let myAge = 10;
 
 // boolean | let: a yes/no answer that could flip later,so I left it open to change.
 let iLikeJavaScript = true;
@@ -722,7 +722,7 @@ console.log(`typeof function() {}         => ${typeof function () {}}`);
 /*
 >>> CHALLENGE 1 <<<
 myFullName            => Sijabulile Ncube
-myAge                 => 35
+myAge                 => 10
 iLikeJavaScript       => true
 idealBeachTemperature => 27.8
 failedMaths           => NaN
