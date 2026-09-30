@@ -53,6 +53,9 @@ node sijabulile-ncube-module2.js
 
 The results of all ten challenges will be displayed in the terminal.
 
+## Terminal Output
+[Terminal output](terminal-output.png)
+
 ## Reference
 
 I used the MDN JavaScript Reference to review the JavaScript concepts covered in this project.
